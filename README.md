@@ -12,8 +12,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution link](https://your-solution-url.com)
-- Live Site URL: [Preview SIte](https://your-live-site-url.com)
+- Solution URL: [Solution link](https://www.frontendmentor.io/solutions/blog-preview-card-EYWHDdlxSW)
+- Live Site URL: [Preview Site](https://blog-preview-card-lyart-three.vercel.app/)
 
 ### Built with
 
